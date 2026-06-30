@@ -1,6 +1,6 @@
 Hi, I'm Max Loffgren.
 
-I'm a CS student at Rice University and a Technical Staff Intern at Firecrawl, where I work on AI agents. My research focuses on LLM faithfulness and mechanistic interpretability, measuring when chain-of-thought steps reflect what drives model outputs.
+I'm a CS student at Rice University and a Member Technical Staff Intern at Firecrawl. My research focuses on LLM faithfulness and mechanistic interpretability, measuring when chain-of-thought steps reflect what drives model outputs.
 
 Research
 
