@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Max Loffgren.
 
-<!--
-**Max17190/Max17190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS at Rice University. I build software and do ML research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+Technical Staff Intern at Firecrawl, AI agents.
+
+---
+
+## Research
+
+**[Mechanistic Evidence for Faithfulness Decay in Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.11201)** — Co-first authored paper introducing NLDD, a logit-space metric for CoT step faithfulness via counterfactual corruption. Accepted at ICLR 2026 LIT Workshop. Code: [NLDD-CoT](https://github.com/Max17190/NLDD-CoT).
+
+Based in San Francisco. [LinkedIn](https://www.linkedin.com/in/max-loffgren/)
