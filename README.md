@@ -8,6 +8,6 @@ Research
 
 Projects
 
-**[Amazon Inventory Monitor](https://github.com/Max17190/amazon-monitor)** Real-time restock monitor for high-demand Amazon products — async batch polling with transition-only alerting to catch restocks without false positives. ~350–750 ms restock-to-notification from us-east-1.
+**[Amazon Inventory Monitor](https://github.com/Max17190/amazon-monitor)** Real-time restock monitor for high-demand Amazon products, async batch polling with transition-only alerting to catch restocks without false positives. ~350–750 ms restock-to-notification from us-east-1.
 
 I'm based in San Francisco. You can find more on [LinkedIn](https://www.linkedin.com/in/max-loffgren/).
