@@ -8,6 +8,6 @@ I'm a CS student at Rice University and a Member Technical Staff Intern at Firec
 
 ## Projects
 
-**[Amazon Inventory Monitor](https://github.com/Max17190/amazon-monitor)** Real-time restock monitor for high-demand Amazon products, async batch polling with transition alerts for restocks. 109ms p50 restock latency from us-east-1.
+**[Amazon Inventory Monitor](https://github.com/Max17190/amazon-monitor)** Real-time restock monitor for high-demand Amazon products, async batch polling with transition alerts for restocks. 100ms p50 restock latency from us-east-1.
 
 I'm based in San Francisco. You can find more on [LinkedIn](https://www.linkedin.com/in/max-loffgren/).
